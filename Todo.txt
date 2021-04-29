@@ -1,0 +1,16 @@
+﻿1. Changed watched status							DONE
+2. Save checkbox status choice						DONE
+3. Remove Debug
+4. Upload + post to forum
+5. Rename included on debug form					DONE
+6. Rename and Section video (doesnt need to move)	DONE
+7. Rename friendly name								DONE
+
+
+
+/// 1. Find the videos folder (or tell user not found any)
+/// 2. Create array of videos for all
+/// 3. Now, based on log file, mark some as watched
+/// 4. Create the tree. Only add "Unknown" if necessary
+/// 5. Add files to the tree
+/// 6. Implement double-click to play
